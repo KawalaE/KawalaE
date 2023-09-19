@@ -1,7 +1,7 @@
 ## Hello I'm Edyta 👋
 
 - 🌱 I’m currently learning frontend development.
-- 📝 My resume ➡️ [Edyta Kawala resume.pdf](https://github.com/KawalaE/KawalaE/files/12665270/Edyta.Kawala.resume.pdf)
+- 📝 My resume ➡️ [Edyta Kawala resume.pdf](https://github.com/KawalaE/KawalaE/files/12665510/Edyta.Kawala.resume.pdf)
 - 🧠 I already have some experience with Java Script, HTML, CSS, Jest and Webpack.
 - 📫 How to reach me: 📨edyta.wer.kawala@gmail.com
 
