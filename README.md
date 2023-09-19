@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend development.
 - 📝 My resume ➡️ [Edyta Kawala resume.pdf](https://github.com/KawalaE/KawalaE/files/12665510/Edyta.Kawala.resume.pdf)
 - 🧠 I already have some experience with Java Script, HTML, CSS, Jest and Webpack.
-- 📫 How to reach me: 📨edyta.wer.kawala@gmail.com
+- 📫 How to reach me: edyta.wer.kawala@gmail.com
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawalaE)
