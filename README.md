@@ -17,3 +17,4 @@
 ![icons8-npm](https://github.com/KawalaE/KawalaE/assets/112077671/70413049-9bf0-4de3-a781-2d7d2369bfaf)
 ![icons8-git](https://github.com/KawalaE/KawalaE/assets/112077671/49a0d26e-1722-4be8-9a81-a2324c957668)
 ![babel (1)](https://github.com/KawalaE/KawalaE/assets/112077671/a1248480-0760-4764-b1a8-cf89cfdf6d5e)
+![jest](https://github.com/KawalaE/KawalaE/assets/112077671/ef99ef86-1e35-4722-a62e-e904ed5b20a7)
