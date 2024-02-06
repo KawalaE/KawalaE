@@ -1,9 +1,9 @@
-## Hello I'm Edyta 👋
+## Hello I'm Edyta 
 
-- 🌱 I’m currently learning frontend development.
-- 📝 My resume ➡️ [Edyta Kawala resume.pdf](https://github.com/KawalaE/KawalaE/files/12665510/Edyta.Kawala.resume.pdf)
-- 🧠 I already have some experience with Java Script, HTML, CSS, Jest and Webpack.
-- 📫 How to reach me: edyta.wer.kawala@gmail.com
+- I’m currently learning frontend development.
+- My resume ➡️ [Edyta Kawala resume.pdf](https://github.com/KawalaE/KawalaE/files/12665510/Edyta.Kawala.resume.pdf)
+- I already have some experience with Java Script, HTML, CSS, Jest and Webpack.
+- How to reach me: edyta.wer.kawala@gmail.com
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawalaE)
@@ -18,3 +18,8 @@
 ![icons8-git](https://github.com/KawalaE/KawalaE/assets/112077671/49a0d26e-1722-4be8-9a81-a2324c957668)
 ![babel (1)](https://github.com/KawalaE/KawalaE/assets/112077671/a1248480-0760-4764-b1a8-cf89cfdf6d5e)
 ![jest](https://github.com/KawalaE/KawalaE/assets/112077671/ef99ef86-1e35-4722-a62e-e904ed5b20a7)
+
+### Medium
+My latest article: <br>
+<br>
+[![battleship-article](https://github.com/KawalaE/KawalaE/assets/112077671/b206a546-e89d-4f26-9c85-ffb6b380e038)](https://medium.com/@edyta.wer.kawala/battleship-sailing-through-vanilla-js-waters-729f5fd6061c)
