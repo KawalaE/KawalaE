@@ -1,7 +1,7 @@
 ## Hello I'm Edyta 
 
 - I’m currently learning React :)
-- My resume ➡️ [Edyta_Kawala_Resume.pdf](https://github.com/KawalaE/KawalaE/files/14500863/Edyta_Kawala_Resume.pdf)
+- My resume ➡️ [Edyta Kawala Resume.pdf](https://github.com/KawalaE/KawalaE/files/14501577/Edyta.Kawala.Resume.pdf)
 - I already have some experience with JavaScript, HTML, CSS, Jest and Webpack.
 - How to reach me: edyta.wer.kawala@gmail.com
 
