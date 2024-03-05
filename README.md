@@ -1,8 +1,8 @@
 ## Hello I'm Edyta 
 
-- I’m currently learning frontend development.
-- My resume ➡️ [Edyta Kawala resume.pdf](https://github.com/KawalaE/KawalaE/files/12665510/Edyta.Kawala.resume.pdf)
-- I already have some experience with Java Script, HTML, CSS, Jest and Webpack.
+- I’m currently learning React :)
+- My resume ➡️ [Edyta_Kawala_Resume.pdf](https://github.com/KawalaE/KawalaE/files/14500863/Edyta_Kawala_Resume.pdf)
+- I already have some experience with JavaScript, HTML, CSS, Jest and Webpack.
 - How to reach me: edyta.wer.kawala@gmail.com
 
 ### Top Languages
