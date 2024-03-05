@@ -9,6 +9,8 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawalaE)
 
 ### Technologies
+![icons8-react-a-javascript-library-for-building-user-interfaces-48](https://github.com/KawalaE/KawalaE/assets/112077671/a7563f68-b594-4419-bd17-a5277b26c22a)
+![icons8-vite-logo-48](https://github.com/KawalaE/KawalaE/assets/112077671/6b30e93b-73bb-4e3b-8b83-89a18737fb35)
 ![js](https://github.com/KawalaE/KawalaE/assets/112077671/26e59ada-15ef-456a-9a84-3daede55ec61)
 ![html](https://github.com/KawalaE/KawalaE/assets/112077671/51cb9449-f04a-4ddf-9f05-ed6b30194921)
 ![css](https://github.com/KawalaE/KawalaE/assets/112077671/8a7c93e1-9c50-4fa6-92ce-727bb41e6eca)
@@ -23,3 +25,4 @@
 My latest article: <br>
 <br>
 [![battleship-article](https://github.com/KawalaE/KawalaE/assets/112077671/b206a546-e89d-4f26-9c85-ffb6b380e038)](https://medium.com/@edyta.wer.kawala/battleship-sailing-through-vanilla-js-waters-729f5fd6061c)
+
