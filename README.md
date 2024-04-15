@@ -10,6 +10,7 @@
 
 ### Technologies
 ![icons8-react-a-javascript-library-for-building-user-interfaces-48](https://github.com/KawalaE/KawalaE/assets/112077671/a7563f68-b594-4419-bd17-a5277b26c22a)
+![icons8-typescript-48](https://github.com/KawalaE/KawalaE/assets/112077671/b77fe85d-7dd1-4e7e-b0e2-7187489783ab)
 ![icons8-vite-logo-48](https://github.com/KawalaE/KawalaE/assets/112077671/6b30e93b-73bb-4e3b-8b83-89a18737fb35)
 ![js](https://github.com/KawalaE/KawalaE/assets/112077671/26e59ada-15ef-456a-9a84-3daede55ec61)
 ![html](https://github.com/KawalaE/KawalaE/assets/112077671/51cb9449-f04a-4ddf-9f05-ed6b30194921)
@@ -20,6 +21,7 @@
 ![icons8-git](https://github.com/KawalaE/KawalaE/assets/112077671/49a0d26e-1722-4be8-9a81-a2324c957668)
 ![babel (1)](https://github.com/KawalaE/KawalaE/assets/112077671/a1248480-0760-4764-b1a8-cf89cfdf6d5e)
 ![jest](https://github.com/KawalaE/KawalaE/assets/112077671/ef99ef86-1e35-4722-a62e-e904ed5b20a7)
+
 
 ### Medium
 My latest article: <br>
