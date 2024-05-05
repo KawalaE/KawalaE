@@ -24,7 +24,6 @@
 
 
 ### Medium
-My latest article: <br>
-<br>
-[![battleship-article](https://github.com/KawalaE/KawalaE/assets/112077671/b206a546-e89d-4f26-9c85-ffb6b380e038)](https://medium.com/@edyta.wer.kawala/battleship-sailing-through-vanilla-js-waters-729f5fd6061c)
+[![image](https://github.com/KawalaE/KawalaE/assets/112077671/4a8f4f8d-51ab-4f70-a999-c961f0e518ef)](https://medium.com/@edyta.wer.kawala/battleship-sailing-through-vanilla-js-waters-729f5fd6061c)
 
+[![image](https://github.com/KawalaE/KawalaE/assets/112077671/9661accd-9561-4fdc-9101-95e07b614bc6)](https://medium.com/@edyta.wer.kawala/the-value-of-meetups-yes-you-nerd-theyre-worth-it-ca73149f1db5)
