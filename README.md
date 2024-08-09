@@ -1,7 +1,7 @@
 # :eyeglasses: About Me:
 I’m currently learning Next.js :)<br>
 `Latest project:` [Anime discovery app](https://anime-radar.vercel.app/) <br>
-I already have some experience with React, React Query, Unit and Integration testing with Vitest/Jest<br>
+I already have some experience with `React`, `React Query`, `Unit` and `Integration` testing with `Vitest/Jest`<br>
 How to reach me: edyta.wer.kawala@gmail.com
 
 ## Socials:
