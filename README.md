@@ -1,8 +1,8 @@
 ## Hello I'm Edyta 
 
-- I’m currently learning React :)
+- I’m currently learning Next.js :)
 - My resume ➡️ [Edyta Kawala Resume.pdf](https://github.com/KawalaE/KawalaE/files/14501577/Edyta.Kawala.Resume.pdf)
-- I already have some experience with JavaScript, HTML, CSS, Jest and Webpack.
+- I already have some experience with React, React Query, Unit and Integration testing with Vitest/Jest
 - How to reach me: edyta.wer.kawala@gmail.com
 
 ### Top Languages
