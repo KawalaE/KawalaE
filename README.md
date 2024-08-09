@@ -1,29 +1,16 @@
-## Hello I'm Edyta 
+# :eyeglasses: About Me:
+I’m currently learning Next.js :)<br>
+`Latest project:` [Anime discovery app](https://anime-radar.vercel.app/) <br>
+My resume ➡️ Edyta Kawala Resume.pdf<br>
+I already have some experience with React, React Query, Unit and Integration testing with Vitest/Jest<br>
+How to reach me: edyta.wer.kawala@gmail.com
 
-- I’m currently learning Next.js :)
-- My resume ➡️ [Edyta Kawala Resume.pdf](https://github.com/KawalaE/KawalaE/files/14501577/Edyta.Kawala.Resume.pdf)
-- I already have some experience with React, React Query, Unit and Integration testing with Vitest/Jest
-- How to reach me: edyta.wer.kawala@gmail.com
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edyta-kawala) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@edyta.wer.kawala) 
 
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawalaE)
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat-square&logo=zod&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-234ED1C5?style=flat-square&logo=vitest&logoColor=yellow) 
 
-### Technologies
-![icons8-react-a-javascript-library-for-building-user-interfaces-48](https://github.com/KawalaE/KawalaE/assets/112077671/a7563f68-b594-4419-bd17-a5277b26c22a)
-![icons8-typescript-48](https://github.com/KawalaE/KawalaE/assets/112077671/b77fe85d-7dd1-4e7e-b0e2-7187489783ab)
-![icons8-vite-logo-48](https://github.com/KawalaE/KawalaE/assets/112077671/6b30e93b-73bb-4e3b-8b83-89a18737fb35)
-![js](https://github.com/KawalaE/KawalaE/assets/112077671/26e59ada-15ef-456a-9a84-3daede55ec61)
-![html](https://github.com/KawalaE/KawalaE/assets/112077671/51cb9449-f04a-4ddf-9f05-ed6b30194921)
-![css](https://github.com/KawalaE/KawalaE/assets/112077671/8a7c93e1-9c50-4fa6-92ce-727bb41e6eca)
-![eslint](https://github.com/KawalaE/KawalaE/assets/112077671/78caf804-4e5c-42f6-8af6-4182727b7b60)
-![icons8-webpack](https://github.com/KawalaE/KawalaE/assets/112077671/24e3b43d-9601-49cf-9d64-92c8e0e9151b)
-![icons8-npm](https://github.com/KawalaE/KawalaE/assets/112077671/70413049-9bf0-4de3-a781-2d7d2369bfaf)
-![icons8-git](https://github.com/KawalaE/KawalaE/assets/112077671/49a0d26e-1722-4be8-9a81-a2324c957668)
-![babel (1)](https://github.com/KawalaE/KawalaE/assets/112077671/a1248480-0760-4764-b1a8-cf89cfdf6d5e)
-![jest](https://github.com/KawalaE/KawalaE/assets/112077671/ef99ef86-1e35-4722-a62e-e904ed5b20a7)
-
-
-### Medium
-[![image](https://github.com/KawalaE/KawalaE/assets/112077671/4a8f4f8d-51ab-4f70-a999-c961f0e518ef)](https://medium.com/@edyta.wer.kawala/battleship-sailing-through-vanilla-js-waters-729f5fd6061c)
-
-[![image](https://github.com/KawalaE/KawalaE/assets/112077671/6f7a397d-459e-471d-8f65-23c939d3de14)](https://medium.com/@edyta.wer.kawala/the-value-of-meetups-yes-you-nerd-theyre-worth-it-ca73149f1db5)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=KawalaE&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KawalaE&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
