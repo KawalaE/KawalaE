@@ -1,5 +1,5 @@
 # :eyeglasses: About Me:
-Latest project: [Resolute](https://resolute-topaz.vercel.app/) <br>
+My portfolio: [Portfolio](https://edyta-kawala.vercel.app/) <br>
 I already have some experience with `Next.js`, `Prisma`, `TypeScript`, `React`, `React Query`, `Unit` and `Integration` testing with `Vitest/Jest`<br>
 How to reach me: edyta.wer.kawala@gmail.com
 
