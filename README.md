@@ -1,6 +1,7 @@
 # :eyeglasses: About Me:
 My portfolio: [Portfolio](https://edyta-kawala.vercel.app/) <br>
 I already have some experience with `Next.js`, `Prisma`, `TypeScript`, `React`, `React Query`, `Unit` and `Integration` testing with `Vitest/Jest`<br>
+Currently working with `Angular`
 How to reach me: edyta.wer.kawala@gmail.com
 
 ## Socials:
